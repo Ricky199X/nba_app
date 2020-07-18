@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.logo {
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+
+.team-name {
+  font-weight: bolder;
+  font-size: large;
+}
+
+.teams-container {
+  padding: 4em;
+}
